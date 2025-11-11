@@ -27,32 +27,7 @@ return 0;
 }
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+// below is the Sir's method:----
 
 
 
@@ -99,5 +74,6 @@ return 0;
 
 //funtiontype funtionname()
 // {
+
 
 // }
